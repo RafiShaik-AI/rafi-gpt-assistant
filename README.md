@@ -180,9 +180,9 @@ This project is licensed under the MIT License.
 
 ### Desktop View:-
 
-![Desktop Chat](screenshots/desktop-chat.png)
+![Desktop Chat](screenshots/Demo-1.png)
 
-![AI Response](screenshots/desktop-ai.PNG)
+![AI Response](screenshots/Demo-2.png)
 
 ### Mobile View:-
 
