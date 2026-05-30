@@ -184,9 +184,4 @@ This project is licensed under the MIT License.
 
 ![AI Response](screenshots/Demo-2.png)
 
-### Mobile View:-
-
-![Mobile Chat](screenshots/mobile-chat.jpeg)
-
-![Mobile View](screenshots/mobile-view.jpeg)
 
