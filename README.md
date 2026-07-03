@@ -1,4 +1,4 @@
-## rafi-gpt-assistant==zxcv
+## rafi-gpt-assistant==zxc
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
