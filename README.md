@@ -1,4 +1,4 @@
-## rafi-gpt-assistant==zxcvbnm1234
+## rafi-gpt-assistant==zxcvbnm123
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
