@@ -1,4 +1,4 @@
-## rafi-gpt-assistant qwer
+## rafi-gpt-assistant qwe
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
