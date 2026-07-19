@@ -1,4 +1,4 @@
-## rafi-gpt-assistant qwertyuio
+## rafi-gpt-assistant qwertyui
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
