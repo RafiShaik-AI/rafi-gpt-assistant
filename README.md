@@ -1,5 +1,5 @@
 ## rafi-gpt-assistant :-
-ZXCVBNM1234
+ZXCVBNM123
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
 
