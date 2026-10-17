@@ -1,4 +1,4 @@
-## rafi-gpt-assistant :- 1234567890qwertyuiopasdfhjklzxcvbn
+## rafi-gpt-assistant :- 1234567890qwertyuiopasdfhjklzxcvb
 
 
 An intelligent AI chatbot with modern interface, fast performance, and user-friendly design.
